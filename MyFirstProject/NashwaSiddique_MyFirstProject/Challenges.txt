@@ -1,0 +1,15 @@
+﻿one color
+two color
+three color
+1 minute
+5 minutes
+10 minutes
+30 minutes
+1 hour
+upside-down
+left-hand
+one-line
+stippling
+black-and-white
+Spiral art
+inverse color
